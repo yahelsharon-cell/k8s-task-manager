@@ -65,3 +65,6 @@ To verify data persistence:
 * `mongo-pvc.yaml`: Persistent Volume Claim definition.
 * `mongo-deploy.yaml`: MongoDB Deployment configuration.
 * `app-deploy.yaml`: Frontend Deployment configuration.
+
+## Acknowledgments
+This project was developed with the assistance of AI tools (Gemini) for troubleshooting and generating documentation.
